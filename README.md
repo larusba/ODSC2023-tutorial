@@ -10,11 +10,11 @@
 ## Overview
 
 The Yelp Dataset (https://www.yelp.com/dataset) comes as a series of JSON files, so we will start by downloading and preprocessing the dataset for training a Heterogeneous Graph Neural Network.
-Although GNNs are popular, a theoretical overview of how to use and create GNNs is needed to understand each step of the workshop.
+Although GNNs are popular, a theoretical overview of how to use and create GNNs is needed to understand each step of the tutorial.
 Then, we will use Neo4j to inspect and visualize the graph.
-The central part of the workshop focuses on how to use the DGL library to create a heterogenous Graph Neural Network, preprocess the dataset, and use the graph to produce business recommendations for users.
+The central part of the tutorial focuses on how to use the DGL library to create a heterogenous Graph Neural Network, preprocess the dataset, and use the graph to produce business recommendations for users.
 We will use Python, Deep Graph Library (DGL), and Neo4j.
-The workshop can be followed using a Python Notebook and the Neo4j Desktop application.
+The tutorial can be replicated using a Python Notebook and the Neo4j Desktop application.
 
 ## About us
 LARUS R&D Tribe created this project.  
